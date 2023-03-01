@@ -1,0 +1,29 @@
+
+Word: largess
+ & Def: [['a gift or money given (as for service or out of benevolence', 'liberality in bestowing gifts; extremely liberal and generous of spirit']]
+
+Word: cleave
+ & Def: [['separate or cut with a tool, such as a sharp instrument', 'make by cutting into', 'come or be in close contact with; stick or hold together and resist separation']]
+
+Word: augment
+ & Def: [['enlarge or increase', 'grow or intensify']]
+
+Word: franchised
+ & Def: [['grant a franchise to']]
+
+Word: repose
+ & Def: [['freedom from activity (work or strain or responsibility', 'the absence of mental stress or anxiety', 'a disposition free from stress or emotion'], ['put or confide something in a person or thing', 'be inherent or innate in', 'lie when dead', 'lean in a comfortable resting position', 'put in a horizontal position', 'to put something (eg trust']]
+
+Word: palpable
+ & Def: [['capable of being perceived; especially capable of being handled or touched or felt', '(medicine', 'clearly revealed to the mind or the senses or judgment', 'so intense as to be almost touched or felt']]
+
+Word: balm
+ & Def: [['any of various aromatic resinous substances used for healing and soothing', 'semisolid preparation (usually containing a medicine']]
+
+Word: gild
+ & Def: [['a formal association of people with similar interests'], ['decorate with, or as if with, gold leaf or liquid gold']]
+
+Word: multitudinous
+ & Def: [['too numerous to be counted']]
+
+Word: equivocate & Def: [['be deliberately ambiguous or unclear in order to mislead or withhold information']]
